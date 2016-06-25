@@ -1,3 +1,4 @@
 # PL-SQL-Movie-Producers
+PL/SQL project
 
-Basic PL/SQL commands wich helped to interact with a Movie Producers DataBase.
+Basic commands wich helped to interact with a Movie Producers DataBase.
